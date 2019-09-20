@@ -1,2 +1,0 @@
-# katherinesMeme
-Created with CodeSandbox
